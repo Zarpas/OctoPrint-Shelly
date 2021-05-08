@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_shelly/templates *
+recursive-include octoprint_shelly/translations *
+recursive-include octoprint_shelly/static *
